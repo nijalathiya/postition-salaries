@@ -8,6 +8,6 @@
 
 <h2>Polynomial Regression Plot</h2>
 
-<img src="polynomial_regression_plot.png"
+<img src="polynomial Regression.png"
      alt="Polynomial Regression Plot"
      width="700">
