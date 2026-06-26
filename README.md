@@ -1,10 +1,13 @@
-# Linear and Polynomial Regression
+<h2>Linear Regression Plot</h2>
 
-## Linear Regression Plot
+<img src="linear_regression_plot.png"
+     alt="Linear Regression Plot"
+     width="700">
 
-![Linear Regression](images/linear_regression_plot.png)
+<br><br>
 
-## Polynomial Regression Plot
+<h2>Polynomial Regression Plot</h2>
 
-![Polynomial Regression](<img width="442" height="350" alt="polynomial Regression" src="https://github.com/user-attachments/assets/6d2d45cb-6ae5-46bf-b5ca-629b18f20b0e" />
-)
+<img src="polynomial_regression_plot.png"
+     alt="Polynomial Regression Plot"
+     width="700">
